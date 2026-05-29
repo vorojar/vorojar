@@ -56,3 +56,5 @@ I am especially interested in:
 ---
 
 If you like local-first AI tools, lightweight native apps, or practical agent workflows, you will probably find something useful here.
+
+<!-- profile-readme-refresh: 2026-05-29 -->
