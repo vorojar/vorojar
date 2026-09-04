@@ -6,6 +6,7 @@ I build local-first AI tools, lightweight native apps, and practical agent workf
 
 ## Featured
 
+- [Inkstone Gomoku / 墨枰五子棋](https://vorojar.github.io/inkstone-gomoku/) — privacy-first Flutter Gomoku with three AI levels, local two-player mode, offline statistics, and a playable web version.
 - [Folio-OCR](https://github.com/vorojar/Folio-OCR) — local batch OCR workbench, a free alternative to ABBYY FineReader.
 - [VoiceSnap](https://github.com/vorojar/VoiceSnap) — offline voice dictation, 100% local, built for private environments.
 - [md-preview](https://github.com/vorojar/md-preview) — native Markdown preview app with GFM, KaTeX, Mermaid, and live reload.
