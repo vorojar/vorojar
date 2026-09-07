@@ -6,6 +6,7 @@ I build local-first AI tools, lightweight native apps, and practical agent workf
 
 ## Featured
 
+- [REDLINE / 公路狂徒](https://vorojar.github.io/redline-road-rash/) — a Godot 4 motorcycle racing and melee combat game with dynamic traffic, three tracks including a 12 km endurance race, and keyboard, gamepad and touch controls. [Source](https://github.com/vorojar/redline-road-rash).
 - [Inkstone Gomoku / 墨枰五子棋](https://vorojar.github.io/inkstone-gomoku/) — privacy-first Flutter Gomoku with three AI levels, local two-player mode, offline statistics, and a playable web version.
 - [Folio-OCR](https://github.com/vorojar/Folio-OCR) — local batch OCR workbench, a free alternative to ABBYY FineReader.
 - [VoiceSnap](https://github.com/vorojar/VoiceSnap) — offline voice dictation, 100% local, built for private environments.
